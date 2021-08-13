@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://GimbertManlawe.github.io/React-Project1",
+  "homepage": "https://GimbertManlawe.github.io/React1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
